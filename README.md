@@ -1,14 +1,26 @@
-## Algoritmos
+# Algoritmos 
 
-Um algoritmo pode ser compreendido como uma sequência de passos cujo propósito fundamental é resolver um problema específico ou executar um tarefa determinada.
+Nada mais é que uma sequencia logica de passos que visa resolver um determinado problema oque não se restringe apenas a computação, podemos não perceber mais frequentemente usamos algoritmos no nosso dia a dia, um bom exemplo é uma RECEITA:
 
-Algoritmos são essenciais na computação, sendo a base para o funcionamento de programas e sistemas. A eficácia de um algoritmo pode ser medida pela sua capacidade de resolver um problema de maneira rápida e precisa, minimizando o tempo de execução e utilizando os recursos disponíveis de forma otimizada. 
+## Café Cremoso: 
+**Ingredientes:**
 
+- 1 Sache de (50g) de café solúvel
+- 2 xicaras de Açucar
+- 1 xicara de Água fervendo.
 
-Além disso, a diversidade de algoritmos reflete a amplitude de desafios que a computação enfrenta. Desde algoritmos de ordenação como o **Quick-sort** e o **Merge-sort**, até aqueles voltados para buscar, como o **Binary Search** e **Breadth-First Search**, cada um possui caraterísticas únicas para lidar com diferentes demandas e cenários.
+**Modo de Preparo:**
+- Coloque para esquentar 1 xicara de água e quando começar a ferver retire-a do fogo, em seguida adicione em um recipiente 2 xicaras de Açucar, 1 Xicara de Água fervendo, 50g de café solúvel.
 
+- Bata os ingredientes(_Só ira funcionar usando uma batedeira_) por 10 min ou até que forme uma mistura homogenia.
 
-A criptografia é outro campo onde os algoritmos desempenham um papel crucial, assegurando a confidencialidade e integridade dos dados. Algoritmos com AES (Advanced Encryption Standard) e RSA são exemplos de técnicas criptográficas robustas utilizadas para proteger informações sensíveis.
+- Ao finalizar sirva-se adicionando 3 colheres da mistura em 1 copo com leite quente.
+
+#
+Em resumo Algoritmos são uma sequencia de passos cujo objetivo é solucionar um problema nesse exemplo o problema era sanar a minha vontade por um delicioso café. 
+
+Abaixo você verá alguns Exemplos de algoritmos bem conhecidos, sinta-se livre para sugerir uma alteração ou para me corrigir em algo que foi abordado de forma equivocada.
+
 
 [Algoritmos de Busca](https://github.com/ParsivalT/Algoritmos/blob/main/search/binary_search/README.md)
 
