@@ -1,8 +1,10 @@
 ## Binary Searsh
 
-O algoritmo de *Busca Binaria*  é um dos melhores algoritmos quando se trata de buscar um valor em uma base de dados que esteja previamente **Ordenada**. O seu funcionamento é bem simples, tomemos como exemplo uma lista telefônica daquelas do tempo dos seus pais. ![lista telefonica](/imagens/lista_telefonica.jpg)
+O algoritmo de *Busca Binaria*  é um dos melhores algoritmos quando se trata de buscar um valor em uma base de dados que esteja previamente **Ordenada**. O seu funcionamento é bem simples, tomemos como exemplo uma lista telefônica daquelas do tempo dos seus pais. 
 
+![lista telefonica](./imagens/lista_telefonica.jpg)
 
+#
 Podemos dizer que a muito tempo atras bem antes do google ser inventado quando você precisava buscar o numero de um colega ou o seu endereço, Você tinha que procurar nesta lista.
 
 Sabendo disso qual é a pior forma de fazer essa procura ? bom se você gosta de sofrer você pode ir procurando um a um na lista oque levaria umas boas horas dependendo do tamanho dela. 
